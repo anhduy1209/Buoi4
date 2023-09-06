@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi4\Bai7\bin\Debug\Bai7.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi4\Bai7\bin\Debug\Bai7.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi4\Bai7\bin\Debug\Bai7.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi4\Bai7\obj\Debug\Bai7.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi4\Bai7\obj\Debug\Bai7.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi4\Bai7\obj\Debug\Bai7.pdb
